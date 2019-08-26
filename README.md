@@ -1,4 +1,4 @@
-gt# Git Merge Conflicts
+gigt# Git Merge Conflicts
 
 ## Learning Goals
 
